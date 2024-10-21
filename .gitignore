@@ -1,0 +1,4 @@
+llmagentenv/
+.env
+.idea/
+test.py
